@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="app_name" translatable="false">DIO MyFirstApp</string>
+        <string name="message">God,\n\ngrant me the serenity to accept the things I cannot change,\n\ncourage to change the things I can,\n\nand wisdom to know the difference</string>
+        <string name="author" translatable="false">Reinhold Niebuhr</string>
+</resources>
